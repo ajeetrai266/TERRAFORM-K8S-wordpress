@@ -1,5 +1,6 @@
 # TERRAFORM-K8S-wordpress
-This Repository used to deploy a WordPress site and a MySQL database in K8s Cluster (Minikube).
+This Repository used to deploy a WordPress site and a MySQL database in K8s Cluster (Minikube),\
+using *Terraform*
 
 **WordPress**, it is the simplest, most popular way to create your own website or blog.\
 **MySQL**, free and open source widely used relational database management system (RDBMS).\
